@@ -1,5 +1,11 @@
 * MP-A8
 
+A work in progress, so don't expect a coherent README. I was suprised when this org-mode file was put up as the Readme. :-)
+
+The MP-A8 is my attempt at learning Kicad, completely building board from scratch, playing with a Motorola 68K and adding to the SWTPC compunity.
+
+I'll use the extended S/09 verion of the SS50 bus for mapping the 68008 into the bus. A lot of details still need to be worked out but it does look doable. Not sure of what tradeoffs will occur. Initial designs may not account for some flexibility (or may create too much).
+
 ** Flex notes
 
 *** Notes
